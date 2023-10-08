@@ -1,0 +1,6 @@
+3 LM393 sensor
+1 l298
+1 arduino
+2 motor
+1 hcsr04 sensor
+
